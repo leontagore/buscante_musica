@@ -1,0 +1,20 @@
+buscante-musica/
+├── pom.xml
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/buscante/musica/
+│       │       ├── model/
+│       │       │   ├── Cantante.java
+│       │       │   └── Cancion.java
+│       │       ├── repository/
+│       │       │   ├── CantanteRepository.java
+│       │       │   └── CancionRepository.java
+│       │       ├── service/
+│       │       │   └── MusicaService.java
+│       │       ├── console/
+│       │       │   └── MenuAplicacion.java
+│       │       └── MusicaApplication.java
+│       └── resources/
+│           └── application.properties
+└── README.md
